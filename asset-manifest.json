@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mehul/static/css/main.cbd1a9a3.css",
-    "main.js": "/mehul/static/js/main.fb5650bd.js",
+    "main.js": "/mehul/static/js/main.d5550af5.js",
     "static/js/787.883ba16e.chunk.js": "/mehul/static/js/787.883ba16e.chunk.js",
     "index.html": "/mehul/index.html",
     "main.cbd1a9a3.css.map": "/mehul/static/css/main.cbd1a9a3.css.map",
-    "main.fb5650bd.js.map": "/mehul/static/js/main.fb5650bd.js.map",
+    "main.d5550af5.js.map": "/mehul/static/js/main.d5550af5.js.map",
     "787.883ba16e.chunk.js.map": "/mehul/static/js/787.883ba16e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbd1a9a3.css",
-    "static/js/main.fb5650bd.js"
+    "static/js/main.d5550af5.js"
   ]
 }
