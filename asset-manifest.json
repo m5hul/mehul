@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/mehul/static/css/main.cbd1a9a3.css",
-    "main.js": "/mehul/static/js/main.d5550af5.js",
+    "main.css": "/mehul/static/css/main.dbdcdaae.css",
+    "main.js": "/mehul/static/js/main.6224960c.js",
     "static/js/787.883ba16e.chunk.js": "/mehul/static/js/787.883ba16e.chunk.js",
+    "static/media/photo.jpeg": "/mehul/static/media/photo.d3ce5b596b7490b7b174.jpeg",
+    "static/media/icon.svg": "/mehul/static/media/icon.f0ec4c7a8639a5007c58e87e66ba65c7.svg",
     "index.html": "/mehul/index.html",
-    "main.cbd1a9a3.css.map": "/mehul/static/css/main.cbd1a9a3.css.map",
-    "main.d5550af5.js.map": "/mehul/static/js/main.d5550af5.js.map",
+    "main.dbdcdaae.css.map": "/mehul/static/css/main.dbdcdaae.css.map",
+    "main.6224960c.js.map": "/mehul/static/js/main.6224960c.js.map",
     "787.883ba16e.chunk.js.map": "/mehul/static/js/787.883ba16e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbd1a9a3.css",
-    "static/js/main.d5550af5.js"
+    "static/css/main.dbdcdaae.css",
+    "static/js/main.6224960c.js"
   ]
 }
